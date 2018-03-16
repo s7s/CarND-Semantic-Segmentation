@@ -1,0 +1,2 @@
+model_checkpoint_path: "road_semantic_segmentation"
+all_model_checkpoint_paths: "road_semantic_segmentation"
